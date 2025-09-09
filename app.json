@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "StokTakipApp",
+    "slug": "stok-takip",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["android", "ios"],
+    "android": {
+      "package": "com.kullaniciadi.stoktakipapp"
+    }
+  }
+}
